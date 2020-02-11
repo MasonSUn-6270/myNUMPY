@@ -9,5 +9,5 @@ for style in plt.style.available:
     plt.bar(x,z,width=1/30)
     plt.plot(x,y)
     plt.title(style)
-    plt.savefig(f'./styles/f{style}')
+    plt.savefig(f'./styles/{style}')
     print(f'{style} done!')
