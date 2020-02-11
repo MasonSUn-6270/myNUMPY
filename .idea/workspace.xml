@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="918a5468-5484-45b5-b628-b3a6a38c2260" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/draw_plt/Tutor_3D/heihei.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/Tutor_3D/simple_3d_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/Tutor_3D/simple_3d_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draw_plt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.black_manba">
+  <component name="RunManager" selected="Python.stylesshow">
     <configuration name="bk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy入门" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="heihei" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="grid-" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy入门" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw_plt/Tutor_3D" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw_plt" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_plt/Tutor_3D/heihei.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_plt/grid-.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xixi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="stylesshow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy入门" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw_plt/Tutor_3D" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw_plt" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_plt/Tutor_3D/xixi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_plt/stylesshow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.stylesshow" />
+        <item itemvalue="Python.grid-" />
         <item itemvalue="Python.black_manba" />
         <item itemvalue="Python.bk" />
         <item itemvalue="Python.kobe" />
-        <item itemvalue="Python.heihei" />
-        <item itemvalue="Python.xixi" />
       </list>
     </recent_temporary>
   </component>
