@@ -2,38 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="918a5468-5484-45b5-b628-b3a6a38c2260" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/draw_plt/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/draw_plt/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/断掉的柱状图/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/误差线/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/误差线/误差线.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/高度标签和plt对象/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/高度标签和plt对象/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/Tutor_3D/black_manba.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/Tutor_3D/black_manba.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/Solarize_Light2.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/Solarize_Light2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/_classic_test.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/_classic_test.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/bmh.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/bmh.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/classic.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/classic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/dark_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/dark_background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/fast.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/fast.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/fivethirtyeight.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/fivethirtyeight.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/ggplot.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/ggplot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/grayscale.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/grayscale.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-bright.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-bright.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-colorblind.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-colorblind.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-dark-palette.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-dark-palette.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-dark.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-darkgrid.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-darkgrid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-deep.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-deep.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-muted.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-muted.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-notebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-notebook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-paper.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-paper.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-pastel.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-pastel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-poster.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-poster.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-talk.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-talk.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-ticks.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-ticks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn-whitegrid.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn-whitegrid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/seaborn.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/seaborn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/styles/tableau-colorblind10.png" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/styles/tableau-colorblind10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/stylesshow.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/stylesshow.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +28,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WpmzMkG9C1qcDuMgiundX0tnRK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myNUMPY\offical\Lines,bars and markers\误差线" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,8 +51,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.invisible_spines">
-    <configuration name="bk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1 (1)">
+    <configuration name="误差线" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy入门" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw_plt/Tutor_3D" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/误差线" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_plt/Tutor_3D/bk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/误差线/误差线.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="black_manba" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy入门" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw_plt/Tutor_3D" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/断掉的柱状图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_plt/Tutor_3D/black_manba.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/断掉的柱状图/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grid-" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy入门" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +102,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw_plt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/高度标签和plt对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_plt/grid-.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/高度标签和plt对象/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="numpy入门" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/高度标签和plt对象" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/高度标签和plt对象/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,34 +157,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stylesshow" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="numpy入门" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw_plt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_plt/stylesshow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1 (1)" />
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.误差线" />
         <item itemvalue="Python.invisible_spines" />
-        <item itemvalue="Python.stylesshow" />
-        <item itemvalue="Python.black_manba" />
-        <item itemvalue="Python.bk" />
-        <item itemvalue="Python.grid-" />
       </list>
     </recent_temporary>
   </component>
