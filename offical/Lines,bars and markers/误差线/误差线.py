@@ -23,7 +23,7 @@ plt.xticks(ind, ('G1', 'G2', 'G3', 'G4', 'G5'))
 plt.yticks(np.arange(0, 81, 10))
 plt.legend((p1[0], p2[0]), ('Men', 'Women'))
 
-plt.savefig('1')
+plt.savefig('cohere相关性')
 
 fig = plt.figure()
 x = np.linspace(0.1, 0.6, 6)

@@ -20,5 +20,7 @@ ax.annotate('race interrupted', (61, 25),
             arrowprops=dict(facecolor='black', shrink=0.05),
             fontsize=16,
             horizontalalignment='right', verticalalignment='top')
+
 plt.show()
-plt.savefig('1')
+
+plt.savefig('cohere相关性')

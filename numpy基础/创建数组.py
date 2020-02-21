@@ -24,7 +24,7 @@ numpy原生数组的创建（例如，arange、ones、zeros等）
 rand(d0, d1, …, dn)	产生均匀分布的随机数	dn为第n维数据的维度
 randn(d0, d1, …, dn)	产生标准正态分布随机数	dn为第n维数据的维度
 randint(low[, high, size, dtype])	产生随机整数	low：最小值；high：最大值；size：数据个数
-random_sample([size])	在[0,1）内产生随机数	size：随机数的shape，可以为元祖或者列表，[2,3]表示2维随机数，维度为（2,3）
+random_sample([size])	在[0,cohere相关性）内产生随机数	size：随机数的shape，可以为元祖或者列表，[2,3]表示2维随机数，维度为（2,3）
 random([size])	同random_sample([size])	同random_sample([size])
 ranf([size])	同random_sample([size])	同random_sample([size])
 sample([size]))	同random_sample([size])	同random_sample([size])
@@ -51,17 +51,17 @@ print(np.random.choice(np.random.rand(3), (2, 3)))  # 类似 random.choice param
 
 
 >>> np.arange(10)
-array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
+array([0, cohere相关性, 2, 3, 4, 5, 6, 7, 8, 9])
 >>> np.arange(2, 10, dtype=np.float)
 array([ 2., 3., 4., 5., 6., 7., 8., 9.])
->>> np.arange(2, 3, 0.1)
-array([ 2. , 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9])
+>>> np.arange(2, 3, 0.cohere相关性)
+array([ 2. , 2.cohere相关性, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9])
 请注意，关于用户应该注意的最后用法在arange文档字符串中有一些细微的描述。
 
 linspace() 将创建具有指定数量元素的数组，并在指定的开始值和结束值之间平均间隔。例如：
 
->>> np.linspace(1., 4., 6)
-array([ 1. ,  1.6,  2.2,  2.8,  3.4,  4. ])
+>>> np.linspace(cohere相关性., 4., 6)
+array([ cohere相关性. ,  cohere相关性.6,  2.2,  2.8,  3.4,  4. ])
 这个创建函数的优点是可以保证元素的数量以及开始和结束点，对于任意的开始，停止和步骤值，arange()通常不会这样做。
 """
 print("===================================步长============================================")
@@ -72,7 +72,7 @@ print(np.linspace([1,2,3,4],[200,3,4,5],5))
 indices() 将创建一组数组（堆积为一个更高维的数组），每个维度一个，每个维度表示该维度中的变化。一个例子说明比口头描述要好得多：
 
 >>> np.indices((3,3))
-array([[[0, 0, 0], [1, 1, 1], [2, 2, 2]], [[0, 1, 2], [0, 1, 2], [0, 1, 2]]])
+array([[[0, 0, 0], [cohere相关性, cohere相关性, cohere相关性], [2, 2, 2]], [[0, cohere相关性, 2], [0, cohere相关性, 2], [0, cohere相关性, 2]]])
 这对于评估常规网格上多个维度的功能特别有用。
 
 # 从磁盘读取数组

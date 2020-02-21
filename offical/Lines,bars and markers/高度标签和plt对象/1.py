@@ -3,8 +3,8 @@
 """
 ax.text(x, y,text,ha,va)
 text :str
-ha :  1 in [center,left,right]
-var : 1 in [center,left,right]
+ha :  cohere相关性 in [center,left,right]
+var : cohere相关性 in [center,left,right]
 """
 import numpy as np
 import matplotlib.pyplot as plt
@@ -50,5 +50,5 @@ def autolabel(rects, xpos='center'):
 autolabel(rects1, "left")
 autolabel(rects2, "right")
 
-plt.savefig('1')
+plt.savefig('cohere相关性')
 plt.show()
