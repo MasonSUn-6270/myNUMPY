@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="918a5468-5484-45b5-b628-b3a6a38c2260" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/cohere相关性/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/cohere相关性/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/子图/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/字符串分析/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/填充图fill/填充图fill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/相应轴上的x和y数据点的位置/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/相应轴上的x和y数据点的位置/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/误差线密度/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/Tutor_3D/bk.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/Tutor_3D/bk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_plt/Tutor_3D/black_manba.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw_plt/Tutor_3D/black_manba.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy基础/创建数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy基础/创建数组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy基础/索引.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy基础/索引.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy基础/遍历整个数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy基础/遍历整个数组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offical/Lines,bars and markers/断掉的柱状图/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/断掉的柱状图/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offical/Lines,bars and markers/断掉的柱状图/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/断掉的柱状图/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offical/Lines,bars and markers/误差线/误差线.py" beforeDir="false" afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/误差线/误差线.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offical/Lines,bars and markers/高度标签和plt对象/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/高度标签和plt对象/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号errorbar/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号errorbar/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offical/Lines,bars and markers/子图/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/子图subplots/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offical/Lines,bars and markers/子图/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/offical/Lines,bars and markers/子图subplots/1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +52,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1">
+  <component name="RunManager" selected="Python.1 (1)">
+    <configuration name="填充图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="numpy入门" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/填充图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\myNUMPY\offical\Lines,bars and markers\填充图\填充图fill.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy入门" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,11 +82,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/断掉的柱状图" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/线条间填充fill_between" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/断掉的柱状图/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/线条间填充fill_between/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="numpy入门" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/误差线密度" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/误差线密度/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/子图" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/相应轴上的x和y数据点的位置" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/子图/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/相应轴上的x和y数据点的位置/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy入门" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,53 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/相应轴上的x和y数据点的位置" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/1/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="numpy入门" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="numpy入门" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offical/Lines,bars and markers/cohere相关性" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/cohere相关性/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offical/Lines,bars and markers/相应轴上的x和y数据点的位置/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.2 (1)" />
-        <item itemvalue="Python.1 (4)" />
         <item itemvalue="Python.1 (1)" />
+        <item itemvalue="Python.填充图" />
+        <item itemvalue="Python.2" />
         <item itemvalue="Python.1 (3)" />
+        <item itemvalue="Python.1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582209374778</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1582263032016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582263032016</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,24 +238,29 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号/1.py</url>
+          <url>file://$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号errorbar/1.py</url>
           <line>14</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号/1.py</url>
+          <url>file://$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号errorbar/1.py</url>
           <line>9</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号/1.py</url>
+          <url>file://$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号errorbar/1.py</url>
           <line>6</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号/1.py</url>
+          <url>file://$PROJECT_DIR$/offical/Lines,bars and markers/上下限符号errorbar/1.py</url>
           <line>16</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/offical/Lines,bars and markers/误差线密度/1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
