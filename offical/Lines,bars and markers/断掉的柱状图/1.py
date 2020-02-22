@@ -21,6 +21,8 @@ ax.annotate('race interrupted', (61, 25),
             fontsize=16,
             horizontalalignment='right', verticalalignment='top')
 
+
+
 plt.show()
 
 plt.savefig('cohere相关性')

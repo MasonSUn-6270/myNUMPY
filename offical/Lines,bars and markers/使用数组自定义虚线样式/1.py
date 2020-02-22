@@ -15,4 +15,4 @@ line2, = ax.plot(x, y - 0.2, dashes=[6, 2], label='Using the dashes parameter')
 line3, = ax.plot(x, y + 0.2, dashes=[1, 50], label='DIY')
 
 ax.legend()
-plt.savefig('1')
+plt.savefig('1') 
