@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 x = np.random.rand(1000)
 
 y = x**2
-x1 = np.arange(600)
+x1 = np.arange(530)
 print(
     x1
 )
